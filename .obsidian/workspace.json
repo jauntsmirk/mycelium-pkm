@@ -11,10 +11,24 @@
             "id": "14a7d20c67bc99f3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Welcome"
             }
           }
         ]
@@ -180,8 +194,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "7d3a317a77b48962",
+  "active": "14a7d20c67bc99f3",
   "lastOpenFiles": [
+    "07 🪵 Saprotrophic Layer/README.md",
+    "06 🍄 Fruiting Bodies/README.md",
+    "05 🧬 Genetic Material/README.md",
+    "04 🧠 Spores/README.md",
+    "03 🌱 Rhizomorphic Network/README.md",
+    "02 📚 Substrate/README.md",
+    "01 📓 Field Notes/README.md",
+    "00 🧭 Maps/README.md",
     "07 🪵 Saprotrophic Layer",
     "06 🍄 Fruiting Bodies",
     "05 🧬 Genetic Material",
