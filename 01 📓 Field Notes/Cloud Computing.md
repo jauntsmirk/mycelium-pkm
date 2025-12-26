@@ -1,4 +1,9 @@
 
+From [[]][https://youtu.be/_a6us8kaq0g?si=99xjwYJZKPL-36oc]
+
+# Cloud Computing Explained
+
+[](https://www.youtube.com/@PowerCertAnimatedVideos)
 
 Cloud computing refers to data and applications being stored and run on the cloud rather than your own local computer. 
 
