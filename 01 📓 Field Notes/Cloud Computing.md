@@ -12,15 +12,29 @@ Why cloud computing?
 - Reliability - cloud providers are responsible for all of the data backups and recovery. one of data centers goes down several redundant sites as a backup ensures there is no downtime
 - Scalability - pay as you go method. you only pay cloud storage that you use
 
+Examples of major cloud providers
 Amazon web services 1/3 cloud market share
 microsoft azure
 google cloud platform
 alibaba
 ibm
 
-IAAS Infrastructure as a service
+(IAAS) Infrastructure as a service
 - manage the hardware of your business
-- examples are online data backup services such as idrive and kurbanite that provide clo
+- examples are online data backup services such as idrive and kurbanite that provide cloud storage
+![[Pasted image 20251227020951.png]]
+
+(PAAS) Platform as a service
+- cloud provider has more control, not only the hardware but te os, middleware and runtime
+
+![[Pasted image 20251227021107.png]]
 
 
-PAAS Platform as a service
+(SAAS) Software as a service
+
+![[Pasted image 20251227021153.png]]
+
+- most common cloud service
+- all service are managed by the cloud provider
+- simply access and run the application from your computer when you connect to the cloud service through the internet
+- example is google docs
