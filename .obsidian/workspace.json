@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "Welcome"
             }
+          },
+          {
+            "id": "d9bf7f4930415377",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 📓 Field Notes/Cloud Computing.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Cloud Computing"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,8 +219,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "14a7d20c67bc99f3",
+  "active": "d9bf7f4930415377",
   "lastOpenFiles": [
+    "Welcome.md",
+    "01 📓 Field Notes/Cloud Computing.md",
     "07 🪵 Saprotrophic Layer/README.md",
     "06 🍄 Fruiting Bodies/README.md",
     "05 🧬 Genetic Material/README.md",
@@ -214,7 +241,6 @@
     "00 🧭 Maps/⟡ The Mycelium Constitution.md",
     "00 🧭 Maps/Mycelium PKM — Fungal Tag Reference.md",
     "00 🧭 Maps",
-    "Welcome.md",
     "Mycelium/README.md",
     "Mycelium"
   ]
