@@ -31,4 +31,5 @@ These are all pretty common factors affecting a business not currently using clo
 - Fast performance for all field workers
 - Able to deploy into **new regions quickly** when required
 - **Lost cost** & **scalable** base infrastructure
-- **Agility** - spi
+- **Agility** - spin up new marketing campaigns, social and progressive applications (**IOT**, **Big Data**, **Machine Learning**, **Analytics**, etc.)
+- **Automation** - low base staffing costs
