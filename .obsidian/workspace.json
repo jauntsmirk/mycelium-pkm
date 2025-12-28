@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4b04bebe85c3a6e4",
+        "id": "6d7dbfa0facb95e0",
         "type": "tabs",
         "children": [
           {
-            "id": "14a7d20c67bc99f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Welcome"
-            }
-          },
-          {
-            "id": "d9bf7f4930415377",
+            "id": "55e3d184f3d0e7b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -55,8 +31,7 @@
               "title": "Cloud Computing"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ad5138f38e60b980",
@@ -220,14 +194,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "d9bf7f4930415377",
+  "active": "55e3d184f3d0e7b8",
   "lastOpenFiles": [
-    "attachments/Pasted image 20251227021153.png",
-    "attachments/Pasted image 20251227021107.png",
-    "attachments/Pasted image 20251227020951.png",
-    "attachments",
     "Welcome.md",
     "01 📓 Field Notes/Cloud Computing.md",
+    "01 📓 Field Notes/attachments/Pasted image 20251227021153.png",
+    "01 📓 Field Notes/attachments/Pasted image 20251227021107.png",
+    "01 📓 Field Notes/attachments/Pasted image 20251227020951.png",
+    "01 📓 Field Notes/attachments",
     "07 🪵 Saprotrophic Layer/README.md",
     "06 🍄 Fruiting Bodies/README.md",
     "05 🧬 Genetic Material/README.md",
