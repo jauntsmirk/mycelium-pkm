@@ -18,6 +18,17 @@ Animals4life.org is the scenario used throughout the course as a real-world like
 ![[Pasted image 20251228142607.png]]
 
 ## Current Problems
-- Legacy on-premises hardware is failing
-- AWS/Azure Pilots are messy and not best practice
-- **Per**
+- Legacy on-premises hardware is **failing**
+- AWS/Azure Pilots are **messy** and **not best practice**
+- **Performance issues** for field workers
+- **Lack of HA and Scalability** - hardware is expensive
+- Staff skills/capabilities struggle.. **little automation**
+- Global expansion concerns - **cost for new infrastructure**
+
+These are all pretty common factors affecting a business not currently using cloud computing. How AWS remedy as many of these problems. 
+
+## Ideal Outcomes
+- Fast performance for all field workers
+- Able to deploy into **new regions quickly** when required
+- **Lost cost** & **scalable** base infrastructure
+- **Agility** - spi
