@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 📓 Field Notes/AWS Accounts.md",
+                "file": "00 🧭 Maps/Mycelium PKM — Fungal Tag Reference.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "AWS Accounts"
+              "title": "Mycelium PKM — Fungal Tag Reference"
             }
           }
         ],
@@ -245,8 +245,8 @@
   },
   "active": "32d4b605497818ff",
   "lastOpenFiles": [
-    "01 📓 Field Notes/attachments/Pasted image 20251228152947.png",
     "01 📓 Field Notes/AWS Accounts.md",
+    "01 📓 Field Notes/attachments/Pasted image 20251228152947.png",
     "01 📓 Field Notes/Scenario.md",
     "01 📓 Field Notes/attachments/Pasted image 20251228142607.png",
     "01 📓 Field Notes/Cloud Computing.md",
