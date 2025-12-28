@@ -6,7 +6,7 @@
 - The cloud is just a big building filled with computers (servers). 
 
 ## What is the purpose of a cloud?
-- The companies that own these clouds are called cloud providers
+- The companies that own these clouds are called cloud providers and they provide cloud services
 
 ## Why cloud computing?
 - Cost - a person or company eliminates a lot of the expense of buying own hardware and software, along with the building, maintenance, and electricity it takes to run own data center
@@ -14,11 +14,11 @@
 - Scalability - pay-as-you-go method. You only pay cloud storage that you use. 
 
 ## Major cloud providers
-(AWS) Amazon Web Services 1/3 cloud market share
-Microsoft Azure
-Google Cloud Platform
-Alibaba
-IBM
+- (AWS) Amazon Web Services - 1/3 cloud market share
+- Microsoft Azure
+- Google Cloud Platform
+- Alibaba
+- IBM
 
 # Types of cloud services
 
