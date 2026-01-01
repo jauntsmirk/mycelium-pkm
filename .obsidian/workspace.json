@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Allostatic Load.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Allostatic Load"
             }
           }
         ],
@@ -161,7 +161,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ad5138f38e60b980",
@@ -270,7 +271,7 @@
   "active": "0021da98163e7014",
   "lastOpenFiles": [
     "01 📓 Field Notes/AWS Accounts.md",
-    "Untitled.md",
+    "Allostatic Load.md",
     "00 🧭 Maps/Mycelium PKM — Fungal Tag Reference.md",
     "01 📓 Field Notes/attachments/Pasted image 20251228152947.png",
     "01 📓 Field Notes/Scenario.md",
