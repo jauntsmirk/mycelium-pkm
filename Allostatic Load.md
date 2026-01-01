@@ -24,3 +24,17 @@ Eat a lot
 drink a lot of water
 chill
 sauna, massage, foam-rolling
+
+passive - when you're tired
+active - when it lowers stress
+
+
+## How to structure rest days
+
+- no perfect rest day schedule
+- adjust training based on 3 variables
+	- how we're feeling
+	- how fatigued we are
+	- adapting to training?
+
+measure total stress from 1-5 in responsibilities, work, training. whenever all goes up at once, take a rest. 
