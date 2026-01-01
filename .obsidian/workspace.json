@@ -78,9 +78,33 @@
               "icon": "lucide-file",
               "title": "AWS Accounts"
             }
+          },
+          {
+            "id": "0021da98163e7014",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -243,10 +267,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "32d4b605497818ff",
+  "active": "0021da98163e7014",
   "lastOpenFiles": [
-    "00 🧭 Maps/Mycelium PKM — Fungal Tag Reference.md",
     "01 📓 Field Notes/AWS Accounts.md",
+    "Untitled.md",
+    "00 🧭 Maps/Mycelium PKM — Fungal Tag Reference.md",
     "01 📓 Field Notes/attachments/Pasted image 20251228152947.png",
     "01 📓 Field Notes/Scenario.md",
     "01 📓 Field Notes/attachments/Pasted image 20251228142607.png",
