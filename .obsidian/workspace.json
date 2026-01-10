@@ -102,9 +102,33 @@
               "icon": "lucide-file",
               "title": "Allostatic Load"
             }
+          },
+          {
+            "id": "78605b95f7fe4cbd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Multi-Factor Authentication (MFA).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Multi-Factor Authentication (MFA)"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -161,8 +185,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ad5138f38e60b980",
@@ -268,10 +291,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "0021da98163e7014",
+  "active": "78605b95f7fe4cbd",
   "lastOpenFiles": [
-    "01 📓 Field Notes/AWS Accounts.md",
+    "attachments/Pasted image 20260110235338.png",
+    "attachments",
     "Allostatic Load.md",
+    "Multi-Factor Authentication (MFA).md",
+    "01 📓 Field Notes/AWS Accounts.md",
     "00 🧭 Maps/Mycelium PKM — Fungal Tag Reference.md",
     "01 📓 Field Notes/attachments/Pasted image 20251228152947.png",
     "01 📓 Field Notes/Scenario.md",
@@ -299,7 +325,6 @@
     "01 📓 Field Notes",
     "00 🧭 Maps/⟡ The Mycelium Constitution.md",
     "00 🧭 Maps",
-    "Mycelium/README.md",
-    "Mycelium"
+    "Mycelium/README.md"
   ]
 }
