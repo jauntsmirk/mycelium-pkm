@@ -8,3 +8,5 @@ IAM is a globally resilient service, so any data is always secure across all AWS
 ![[Pasted image 20260111142230.png]]
 
 ![[Pasted image 20260111142340.png]]
+
+![[Pasted image 20260111142729.png]]
