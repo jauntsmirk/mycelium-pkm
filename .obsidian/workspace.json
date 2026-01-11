@@ -157,7 +157,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IAM Access Keys.md",
+                "file": "00 🧭 Maps/⟡ The Mycelium Constitution.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -172,7 +172,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "IAM Access Keys"
+              "title": "⟡ The Mycelium Constitution"
             }
           }
         ],
@@ -341,10 +341,10 @@
   },
   "active": "5d67ba2024e7ef13",
   "lastOpenFiles": [
+    "IAM Access Keys.md",
     "attachments/Pasted image 20260111145422.png",
     "attachments/Pasted image 20260111145044.png",
     "Identity and Access Management (IAM) Basics.md",
-    "IAM Access Keys.md",
     "attachments/Pasted image 20260111142729.png",
     "attachments/Pasted image 20260111142512.png",
     "attachments/Pasted image 20260111142445.png",
@@ -359,7 +359,6 @@
     "00 🧭 Maps/Mycelium PKM — Fungal Tag Reference.md",
     "01 📓 Field Notes/attachments/Pasted image 20251228152947.png",
     "01 📓 Field Notes/Scenario.md",
-    "01 📓 Field Notes/attachments/Pasted image 20251228142607.png",
     "01 📓 Field Notes/Cloud Computing.md",
     "Welcome.md",
     "01 📓 Field Notes/attachments",
